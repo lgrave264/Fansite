@@ -1,0 +1,23 @@
+html{
+    background-image: url('../Images/wall1.png');
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    align-content: center;
+    align-items: center;
+    color: white;
+}
+
+td{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    padding: auto;
+}
+
+table{
+    background-color: black;
+    border-color: blue;
+    border-width: 3.5px;
+}
