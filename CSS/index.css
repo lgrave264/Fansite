@@ -23,3 +23,17 @@ body{
     background-size: contain;
         background-repeat: no-repeat;
 }
+
+.dark-mode{
+    background-color: black;
+    color: white;
+}
+.dark-mode > table{
+    background-color: white;
+    color: black;
+}
+
+.weird-mode{
+    background-color:blue;
+    color: red;
+}
