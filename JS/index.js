@@ -8,4 +8,3 @@ function myFunction() {
     element.classList.toggle("weird-mode");
   }
 
-  
